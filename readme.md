@@ -39,7 +39,7 @@ Monitoring physical and logical disk drives can be crucial for various reasons, 
 3. **Run the Script:**
     Execute the script from your terminal or command prompt:
     ```bash
-    python drive_monitor.py
+    python driveid.py
     ```
 
 4. **Monitor Output:**
