@@ -48,16 +48,18 @@ Monitoring physical and logical disk drives can be crucial for various reasons, 
 ## Example Output
 
 Press 'Ctrl+C' to quit the program at any time.
-Contents of drive C:
-[Folder] Program Files
-[Folder] Users
-[Folder] Windows
-[File] pagefile.sys
-Device \.\PHYSICALDRIVE1: was PLUGGED IN
-Contents of drive D:
-[Folder] Documents
-[Folder] Music
-Device \.\PHYSICALDRIVE1 (Drive D): was UNPLUGGED
+    ```bash
+    Contents of drive C:
+    [Folder] Program Files
+    [Folder] Users
+    [Folder] Windows
+    [File] pagefile.sys
+    Device \.\PHYSICALDRIVE1: was PLUGGED IN
+    Contents of drive D:
+    [Folder] Documents
+    [Folder] Music
+    Device \.\PHYSICALDRIVE1 (Drive D): was UNPLUGGED
+    ```
 
 
 ## License
