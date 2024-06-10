@@ -47,8 +47,9 @@ Monitoring physical and logical disk drives can be crucial for various reasons, 
 
 ## Example Output
 
-Press 'Ctrl+C' to quit the program at any time.
-    ```bash
+```bash
+    Press 'Ctrl+C' to quit the program at any time.
+
     Contents of drive C:
 
     [Folder] Program Files
