@@ -69,8 +69,7 @@ Monitoring physical and logical disk drives can be crucial for various reasons, 
     [Folder] Music
     
     Device \.\PHYSICALDRIVE1 (Drive D): was UNPLUGGED
-    ```
-
+```
 
 ## License
 
